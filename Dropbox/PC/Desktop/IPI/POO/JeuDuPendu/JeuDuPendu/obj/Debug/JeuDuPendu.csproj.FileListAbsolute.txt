@@ -1,8 +1,0 @@
-C:\Users\Utilisateur\Dropbox\PC\Desktop\IPI\POO .NET\JeuDuPendu\JeuDuPendu\obj\Debug\JeuDuPendu.csproj.AssemblyReference.cache
-C:\Users\Utilisateur\Dropbox\PC\Desktop\IPI\POO .NET\JeuDuPendu\JeuDuPendu\obj\Debug\JeuDuPendu.csproj.SuggestedBindingRedirects.cache
-C:\Users\Utilisateur\Dropbox\PC\Desktop\IPI\POO .NET\JeuDuPendu\JeuDuPendu\obj\Debug\JeuDuPendu.csproj.CoreCompileInputs.cache
-C:\Users\Utilisateur\Dropbox\PC\Desktop\IPI\POO .NET\JeuDuPendu\JeuDuPendu\bin\Debug\JeuDuPendu.exe.config
-C:\Users\Utilisateur\Dropbox\PC\Desktop\IPI\POO .NET\JeuDuPendu\JeuDuPendu\bin\Debug\JeuDuPendu.exe
-C:\Users\Utilisateur\Dropbox\PC\Desktop\IPI\POO .NET\JeuDuPendu\JeuDuPendu\bin\Debug\JeuDuPendu.pdb
-C:\Users\Utilisateur\Dropbox\PC\Desktop\IPI\POO .NET\JeuDuPendu\JeuDuPendu\obj\Debug\JeuDuPendu.exe
-C:\Users\Utilisateur\Dropbox\PC\Desktop\IPI\POO .NET\JeuDuPendu\JeuDuPendu\obj\Debug\JeuDuPendu.pdb
